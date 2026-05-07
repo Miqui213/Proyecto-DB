@@ -1,0 +1,301 @@
+id_destino,nombre_destino,pais,codigo_iata,estado_operativo
+1,Tarragona,Panamá,DHL,True
+2,Valladolid,España,PTZ,True
+3,Puerto Rico,Colombia,VFL,True
+4,Vizcaya,Panamá,GEC,False
+5,San Guadalupe los altos,México,NGF,True
+6,Cassiano do Sul,Brasil,IPX,True
+7,Pimenta,Brasil,AOW,True
+8,Machado,Brasil,NBM,True
+9,Pacheco Grande,Brasil,YXG,True
+10,Rezende de Minas,Brasil,ICY,True
+11,Posadas,Argentina,JGT,False
+12,Girona,Perú,OYV,True
+13,Barbosa do Amparo,Brasil,CDA,True
+14,Quillota,Chile,ZAX,True
+15,San Augusto los altos,México,BJM,True
+16,Portezuelo,Chile,KIU,True
+17,Ávila,España,TAF,True
+18,San Linda de la Montaña,México,OWD,True
+19,La Rioja,Argentina,OUV,True
+20,Segovia,España,KUU,True
+21,Vieja República Árabe Siria,México,GHQ,True
+22,Sá,Brasil,SWZ,False
+23,Panguipulli,Chile,DXB,False
+24,Cantabria,Perú,JVH,True
+25,Gregorybury,Estados Unidos,TOR,False
+26,Puerto Octay,Chile,ZYG,True
+27,Guerra,Brasil,YUC,True
+28,Navarra,España,ZVB,True
+29,Nueva Brunei Darussalam,México,RCN,True
+30,Constitución,Argentina,UAX,True
+31,Melilla,Perú,XUQ,True
+32,Coper,Colombia,QSC,True
+33,da Paz,Brasil,WIQ,True
+34,Tarragona,España,FOC,True
+35,Huesca,España,ZZH,True
+36,Soria,Perú,ANI,True
+37,Granada,Perú,IIF,False
+38,Guerra dos Dourados,Brasil,AUC,False
+39,East Rebecca,Estados Unidos,KXV,True
+40,North John,Estados Unidos,JYU,True
+41,Sevilla,Panamá,RTP,True
+42,Retiro,Chile,DIM,True
+43,Santa Fe,Argentina,NCL,False
+44,Nueva Sudán,México,PWR,False
+45,Madrid,España,VGW,True
+46,Formosa,Argentina,ELE,False
+47,Bahía Blanca,Argentina,FXQ,False
+48,Burgos,Perú,YYZ,False
+49,Borges,Brasil,FWO,True
+50,Las Palmas,Perú,ZKV,True
+51,Elías,Colombia,IZF,True
+52,Villanueva,Colombia,LAJ,True
+53,Cáceres,España,VMZ,True
+54,Cauquenes,Chile,YZJ,True
+55,Zaragoza,España,TDD,True
+56,San Espartaco los bajos,México,PSD,False
+57,Rogersshire,Estados Unidos,NEL,True
+58,da Conceição,Brasil,ECQ,True
+59,Río Gallegos,Argentina,ZZB,True
+60,Zaragoza,Perú,CUT,True
+61,Santa Cruz,Chile,EKA,True
+62,Cartagena,Chile,WMX,True
+63,Jeremyport,Estados Unidos,XXX,False
+64,Málaga,España,XGV,True
+65,Pulí,Colombia,BGI,True
+66,Álava,Panamá,EKV,True
+67,Nueva Angola,México,STB,True
+68,Navarra,Panamá,EFW,False
+69,Shawport,Estados Unidos,APR,True
+70,Illapel,Chile,ESX,False
+71,Lake Robertburgh,Estados Unidos,SLQ,True
+72,Parral,Chile,UVS,False
+73,Pontevedra,Perú,ITL,True
+74,Mar del Plata,Argentina,CJX,True
+75,Castellón,Panamá,BCF,False
+76,Bahía Blanca,Argentina,TAM,False
+77,Barcelona,Panamá,YQT,True
+78,San Nicolás,Chile,HEU,True
+79,Valladolid,Perú,TOS,True
+80,Convención,Colombia,EJL,True
+81,da Conceição,Brasil,LDF,True
+82,Suttonchester,Estados Unidos,XJA,True
+83,Puerto Escondido,Colombia,QVN,False
+84,Cunha do Amparo,Brasil,OHT,False
+85,Araújo da Serra,Brasil,TXG,True
+86,Badajoz,Perú,DDJ,True
+87,San Agustín,Colombia,JRK,True
+88,Neuquén,Argentina,IHL,True
+89,Ourense,Perú,CTP,True
+90,Pichilemu,Chile,WJP,True
+91,Lake Alisonville,Estados Unidos,NGC,False
+92,Argelia,Colombia,LPR,True
+93,San Magdalena los altos,México,SZH,True
+94,San Claudio de la Montaña,México,NKZ,True
+95,da Rosa de Nogueira,Brasil,FRP,True
+96,San Joaquín,Chile,PVD,True
+97,Córdoba,Argentina,LPD,True
+98,La Rioja,Argentina,NOH,True
+99,San Salvador de Jujuy,Argentina,ANW,False
+100,Peque,Colombia,QDP,True
+101,Rancagua,Chile,JLB,True
+102,Port Laura,Estados Unidos,JAE,False
+103,La Rioja,Perú,BPD,True
+104,Borges,Brasil,BSS,True
+105,Cádiz,Panamá,PMZ,True
+106,New Brendan,Estados Unidos,EOB,True
+107,Vieja Kuwait,México,FJO,False
+108,San Martín,Colombia,BVM,True
+109,Melilla,Perú,GAK,True
+110,North Karenville,Estados Unidos,RVC,False
+111,San Patricia de la Montaña,México,PME,True
+112,San Juanito,Colombia,WFH,True
+113,Castellón,España,MKA,True
+114,Anserma,Colombia,DEC,False
+115,Burgos,Perú,LYW,True
+116,Colchane,Chile,XVF,True
+117,Machetá,Colombia,FSX,True
+118,Constitución,Argentina,RSF,True
+119,East Davidport,Estados Unidos,PEN,True
+120,Constitución,Argentina,UYD,True
+121,Vieja Georgia,México,FKZ,True
+122,La Rioja,España,TDR,True
+123,Lleida,Perú,QEB,True
+124,Girona,España,IBA,True
+125,El Tarra,Colombia,JCB,True
+126,Vieja Islandia,México,RVA,True
+127,San Ivonne los bajos,México,KMQ,False
+128,Santa Fe,Argentina,DMH,True
+129,Lago Ranco,Chile,BHS,True
+130,Siqueira de Minas,Brasil,FUR,False
+131,San Bernardo,Colombia,JSG,True
+132,Nueva Qatar,México,BGE,True
+133,Moura,Brasil,HRD,True
+134,Andacollo,Chile,VWF,True
+135,Port Rebecca,Estados Unidos,AAP,True
+136,San Ferando del Valle de Catamarca,Argentina,KBV,True
+137,Vieja Guinea,México,WHX,True
+138,Gama,Colombia,XUU,True
+139,Palmar,Colombia,HIY,True
+140,Fortul,Colombia,CRX,True
+141,San Rocío los altos,México,QEY,True
+142,Zaragoza,España,BSL,True
+143,Phillipsburgh,Estados Unidos,ELD,True
+144,Anserma,Colombia,DDA,True
+145,Soria,Perú,PEH,True
+146,Álava,España,ZKW,True
+147,East Terryfort,Estados Unidos,HVK,True
+148,Andersonborough,Estados Unidos,IJE,True
+149,South Marc,Estados Unidos,HVA,False
+150,Quillota,Chile,OYO,False
+151,Chimá,Colombia,EXB,True
+152,da Cruz,Brasil,HZJ,True
+153,Madrid,España,PUU,True
+154,South Daniel,Estados Unidos,AIQ,True
+155,La Coruña,España,EAH,True
+156,San Miguel de Tucumán,Argentina,NPD,False
+157,Toledo,Panamá,RQO,True
+158,San David los altos,México,ECR,True
+159,Almeida do Galho,Brasil,BES,True
+160,Paraná,Argentina,IWT,False
+161,Girona,España,AVX,False
+162,Altamira,Colombia,SWC,False
+163,Viedma,Argentina,UYL,True
+164,Kimberlyhaven,Estados Unidos,WQO,True
+165,San Alberto los altos,México,BJD,True
+166,San Eloy los bajos,México,VZM,True
+167,West Ashleyville,Estados Unidos,AWW,True
+168,Mendoza,Argentina,GVM,True
+169,Trinidad,Colombia,XTX,True
+170,Puchuncaví,Chile,GXA,True
+171,San Federico los bajos,México,HEN,False
+172,Álava,Perú,LLZ,True
+173,Mendoza,Argentina,JEM,True
+174,Lleida,Panamá,MHU,True
+175,South Cynthia,Estados Unidos,XXR,True
+176,Pastor,Brasil,ZLK,True
+177,La Plata,Argentina,ZIN,True
+178,Newtonton,Estados Unidos,EEX,True
+179,San Luis,Argentina,IQG,False
+180,Burgos,Panamá,VWS,False
+181,Madrid,España,PPB,True
+182,Cantabria,Perú,KRV,True
+183,Ushuaia,Argentina,CNI,True
+184,Calama,Chile,GUD,False
+185,Salamanca,Panamá,LAV,True
+186,Aguadas,Colombia,HDE,True
+187,Zaragoza,España,ZLS,True
+188,Vieja Somalia,México,ROL,True
+189,Melo,Brasil,UHP,False
+190,Úmbita,Colombia,JGH,True
+191,La Rioja,Argentina,JNP,True
+192,Ávila,Perú,CEK,True
+193,Mendoza,Argentina,THE,False
+194,Coihueco,Chile,JHC,True
+195,San María del Carmen los bajos,México,CUH,True
+196,Vizcaya,Perú,AQL,False
+197,Lleida,Panamá,JTR,True
+198,Río Verde,Chile,MYP,True
+199,West Michael,Estados Unidos,THY,False
+200,Zaragoza,Perú,WRD,False
+201,Rios,Brasil,BYF,True
+202,El Carmen de Bolívar,Colombia,DFP,True
+203,Salamanca,España,EXH,True
+204,Castellón,Panamá,HZA,False
+205,Pontevedra,España,JIN,True
+206,Corrientes,Argentina,BWC,True
+207,Jaén,Panamá,NEB,True
+208,Pastor dos Dourados,Brasil,KTB,False
+209,Novais de Fernandes,Brasil,ARL,True
+210,Soria,Perú,BYQ,True
+211,Laja,Chile,XNO,True
+212,Guipúzcoa,Panamá,VFN,False
+213,Alves,Brasil,JOS,True
+214,West Jasonside,Estados Unidos,VII,True
+215,El Charco,Colombia,ZFO,True
+216,Guipúzcoa,Panamá,UEJ,True
+217,Barbosa,Brasil,JFC,True
+218,Valladolid,España,AEQ,False
+219,Port Brandon,Estados Unidos,MMF,True
+220,New Brandy,Estados Unidos,AUJ,True
+221,Betulia,Colombia,GEX,False
+222,Guadalajara,España,YBN,True
+223,Guipúzcoa,España,DHT,True
+224,Baleares,España,JWT,True
+225,Peque,Colombia,YQS,False
+226,Cavalcanti,Brasil,FXJ,True
+227,San Salvador de Jujuy,Argentina,VQV,True
+228,West Robert,Estados Unidos,ZTW,False
+229,Barcelona,España,IOV,True
+230,Toledo,Perú,RGW,False
+231,Johnberg,Estados Unidos,HSA,False
+232,Jordán,Colombia,BJO,False
+233,Asturias,Perú,QFA,True
+234,Topaipí,Colombia,ZRC,True
+235,Lake Anthonyview,Estados Unidos,EOX,True
+236,Ushuaia,Argentina,AHX,False
+237,Gámeza,Colombia,CGV,True
+238,Santa Bárbara,Chile,ULW,True
+239,Palmira,Colombia,OYP,True
+240,Pacheco de Aragão,Brasil,SGY,True
+241,Barcelona,España,JQK,True
+242,San Calixto,Colombia,FXG,True
+243,Casa Grande,Brasil,GNW,True
+244,Tununguá,Colombia,HOI,True
+245,Madrid,Panamá,ECG,False
+246,Sarahmouth,Estados Unidos,NEE,True
+247,San Fabián,Chile,MTZ,True
+248,Marshton,Estados Unidos,AIN,False
+249,Valladolid,Panamá,LZL,True
+250,Guerra,Brasil,KNO,True
+251,Vieja Andorra,México,BYW,True
+252,Cavalcante,Brasil,RFO,True
+253,Cuenca,Perú,TIK,True
+254,Andalucía,Colombia,VMC,True
+255,Córdoba,España,XWT,True
+256,Burgos,Panamá,RDU,True
+257,Port Sandra,Estados Unidos,EGX,True
+258,Siachoque,Colombia,QYR,True
+259,Lolol,Chile,XSP,True
+260,Girona,Panamá,HDM,True
+261,Rodrigues Paulista,Brasil,XQK,True
+262,Navarra,España,BYC,True
+263,San Ferando del Valle de Catamarca,Argentina,XCR,True
+264,Nueva Guinea Bissau,México,SBK,True
+265,New Stephenborough,Estados Unidos,TGX,True
+266,Salamanca,Perú,SWA,True
+267,San César los altos,México,SUU,True
+268,Lake Michael,Estados Unidos,BZU,True
+269,Putaendo,Chile,PJV,False
+270,Santa Isabel,Colombia,KSJ,True
+271,Cádiz,Perú,VQT,False
+272,Tipacoque,Colombia,OFN,False
+273,Souza de Teixeira,Brasil,HOY,True
+274,Las Palmas,España,KDA,True
+275,Badajoz,España,GLY,False
+276,Martins da Serra,Brasil,UOA,False
+277,Ciudad,Panamá,IAE,True
+278,Melindatown,Estados Unidos,WLS,True
+279,Ourense,Panamá,UGV,False
+280,Aisén,Chile,RNF,True
+281,Salgar,Colombia,GLD,True
+282,Huelva,Panamá,VQS,True
+283,Río Hurtado,Chile,FWV,True
+284,Viana do Oeste,Brasil,RKZ,True
+285,Pontevedra,Perú,WDL,True
+286,Paraná,Argentina,JHG,False
+287,Cumaral,Colombia,PRI,True
+288,Sevilla,España,DBB,True
+289,Talagante,Chile,PRF,True
+290,Álava,España,NHI,True
+291,Valencia,Panamá,ROG,True
+292,Allenshire,Estados Unidos,HXO,False
+293,Teruel,Colombia,QRS,False
+294,Pacheco,Brasil,XPV,True
+295,Pirque,Chile,ZDV,True
+296,Treguaco,Chile,JGU,False
+297,Córdoba,Argentina,PLT,True
+298,Las Palmas,Panamá,JWK,True
+299,San Eloy de la Montaña,México,MTG,True
+300,Majagual,Colombia,FUG,True
